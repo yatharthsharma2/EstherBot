@@ -7,7 +7,7 @@
 	"FAIR ENOUGH": "%[Learn More](postback:learn_more) %[Connect with Yatharth](postback:connect_with_yatharth)",
 	"LEARN MORE": "%[Intro](postback:intro) %[Career](postback:work_exp) %[Education](postback:education)",
 	"TRAVELLING": "He started travelling alone at a very young age to represent school at sports events. But the bug of unplanned trips has bit him recently and is there to stay.\n Like this one to Brazil for Football World Cup...\n![yatharth](https://raw.githubusercontent.com/yatharthsharma2/EstherBot/master/img/brazil.jpg)\nOr this solo trek to Triund, Near Dharamshala...\n![yatharth](https://raw.githubusercontent.com/yatharthsharma2/EstherBot/master/img/triund.jpg)\nMore about Yatharth?%[Career](postback:work_exp)%[Education](postback:education)",
-	"CONNECT WITH YATHARTH": " %[Linkedin](https://in.linkedin.com/in/yatharths)\n %[Facebook](https://www.facebook.com/yatharth.sharma.54) %[Contact Details](postback:contact_details)\n %[Learn More](postback:learn_more)",
+	"CONNECT WITH YATHARTH": " %[Linkedin](https://in.linkedin.com/in/yatharths) %[Facebook](https://www.facebook.com/yatharth.sharma.54) %[Contact Details](postback:contact_details)\n %[Learn More](postback:learn_more)",
 	"LINKEDIN": "https://in.linkedin.com/in/yatharths",
 	"FACEBOOK": "https://www.facebook.com/yatharth.sharma.54",
 	"CONTACT DETAILS": "Mobile Number - 09619139810\nEmail ID - yatharth1810@gmail.com\n%[Learn More](postback:learn_more)",
